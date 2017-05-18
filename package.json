@@ -1,0 +1,30 @@
+{
+  "name": "wizar-admin",
+  "engines": {
+    "node": "^6.2.0"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bootstrap": "^4.0.0-alpha.2",
+    "font-awesome": "^4.6.3",
+    "lodash": "^4.13.1",
+    "mapbox-gl": "^0.37.0",
+    "meteor-node-stubs": "^0.2.3",
+    "qrcode.react": "^0.6.1",
+    "react": "^15.2.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-bootstrap": "^0.30.0-rc.2",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "react-router-redux": "^4.0.4",
+    "redux": "^3.5.2",
+    "redux-form": "^6.0.1",
+    "redux-logger": "^2.6.1",
+    "simpl-schema": "0.0.3",
+    "wizar-hierarchy": "file:///Users/vikti/dev/wizar-hierarchy/wizar-hierarchy-1.0.0.tgz"
+  },
+  "scripts": {
+    "start": "node my_app/bundle/main.js"
+  }
+}
