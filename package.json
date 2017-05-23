@@ -21,8 +21,7 @@
     "redux": "^3.5.2",
     "redux-form": "^6.0.1",
     "redux-logger": "^2.6.1",
-    "simpl-schema": "0.0.3",
-    "wizar-hierarchy": "file:///Users/vikti/dev/wizar-hierarchy/wizar-hierarchy-1.0.0.tgz"
+    "simpl-schema": "0.0.3"
   },
   "scripts": {
     "start": "node my_app/bundle/main.js"
